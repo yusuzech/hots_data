@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542146686395.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B7F2437C",
+    "lastKnownWriteTime" : 1542182740,
+    "last_content_update" : 1542182740450,
+    "path" : "~/Github/hots_hero_conversation/code/extract_voice_text_same_hero.R",
+    "project_path" : "code/extract_voice_text_same_hero.R",
+    "properties" : {
+        "cursorPosition" : "84,47",
+        "scrollLine" : "64",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
