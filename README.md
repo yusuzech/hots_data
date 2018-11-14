@@ -1,2 +1,2 @@
-# hots_hero_conversation
-Extract hero's conversion text files and reorganize them in a nicer way.
+# hots data
+extra text data from Heros of the Storm and create some interesting tables and analysis.
